@@ -1,7 +1,7 @@
 # Projeto Nikel - Growdev
 
 <h3>Aplicação de controle finaceiro.<h3>
-<br>
+<br>    
     <img src="https://github.com/micheleldsk/nikel_growdev/assets/102632136/1a60f64b-779c-49bd-a6f7-15d9188d6c35" alt="nikelLogin">
     <img src="https://github.com/micheleldsk/nikel_growdev/assets/102632136/92b632aa-8987-4fd9-9c92-648dba87918d" alt="nikelCadastro">
     <img src="https://github.com/micheleldsk/nikel_growdev/assets/102632136/7f9522fa-d287-4184-b66e-7dc780130689" alt="nikelHome">
@@ -15,7 +15,7 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-    <br>
+<br>
 |✅ HTML <br>
 |✅ CSS <br>     	                    
 |✅ Javascript <br>
